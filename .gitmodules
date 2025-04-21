@@ -1,6 +1,0 @@
-[submodule "Students-Attendance"]
-	path = Students-Attendance
-	url = https://github.com/Sps9938/Students-Attendance
-[submodule "Student-Attendance-Frontend"]
-	path = Student-Attendance-Frontend
-	url = https://github.com/Sps9938/Student-Attendance-Frontend
